@@ -1,0 +1,6 @@
+2017-01-29  Michael Herstine <sp1ff@pobox.com>
+
+	* datrie.h: Initial implementation
+	* datrie.c: ditto
+	* main.c: ditto
+
